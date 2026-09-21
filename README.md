@@ -178,16 +178,16 @@ For example, a historically weak February should not automatically be interprete
 Seasonality also differed across food-service industries.
 
 **Full-Service Restaurants**
-- July: approximately **+11.42%**
-- August: approximately **+12.34%**
+- July:  **+11.42%**
+- August:  **+12.34%**
 
 **Limited-Service Eating Places**
-- July: approximately **+10.44%**
-- August: approximately **+8.46%**
+- July:  **+10.44%**
+- August:  **+8.46%**
 
 **Special Food Services**
-- September: approximately **+10.44%**
-- October: approximately **+11.28%**
+- September:  **+10.44%**
+- October:  **+11.28%**
 
 The results show that industries do not necessarily experience peak seasonal demand during the same months.
 
