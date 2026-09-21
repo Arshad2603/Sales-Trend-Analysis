@@ -68,9 +68,17 @@ This shows that **high total sales and high location productivity are two differ
 
 Markets with high sales per location may be worth investigating further when evaluating expansion or market performance, while high-total-sales markets should also be considered in the context of their larger store footprint.
 
-### Dashboard
+### Visuals
 
-![Location Productivity Dashboard](screenshots/location-productivity.png)
+#### Total Sales by Province
+![Total Sales by Province](Screenshots/Location%20Productivity/Total%20Sales.png)
+
+#### Sales per Location vs Store Footprint
+![Sales per Location vs Store Footprint](Screenshots/Location%20Productivity/Sales%20Per%20Store%20vs%20Number%20of%20Stores.png)
+
+#### Full-Service Restaurant Location Productivity
+![Full-Service Restaurant Location Productivity](Screenshots/Location%20Productivity/Sales%20in%20Full%20service.png)
+
 
 ---
 
@@ -112,9 +120,20 @@ Long-term market evaluation should consider both **overall growth and the volati
 
 Markets with sustained long-term increases can then be investigated further for the factors contributing to that performance.
 
-### Dashboard
 
-![Long-Term Growth Dashboard](screenshots/long-term-growth.png)
+### Visuals
+
+#### Annual Sales Trend by Industry
+![Annual Sales Trend by Industry](Screenshots/Long%20Term%20growth/Anual%20Growth%20By%20industries.png)
+
+#### YoY Growth vs 3-Year Average Growth
+![YoY Growth vs 3-Year Average Growth](Screenshots/Long%20Term%20growth/Average%20of%20YOY%20VS%203YEAR%20AVERGAE%20area%20graph.png)
+
+#### Long-Term CAGR by Province and Industry
+![Long-Term CAGR](Screenshots/Long%20Term%20growth/Long%20term%20CAGR%20RATE.png)
+
+#### Limited-Service Long-Term Growth
+![Limited-Service Long-Term Growth](Screenshots/Long%20Term%20growth/Limited%20Service.png)
 
 ---
 
@@ -169,7 +188,13 @@ Understanding recurring monthly patterns can provide additional context for:
 
 For example, a historically weak February should not automatically be interpreted as evidence of declining underlying performance.
 
-![Provincial Seasonality Dashboard](screenshots/seasonality.png)
+### Provincial Seasonality Visuals
+
+#### Average Seasonal Effect by Month
+![Average Seasonal Effect by Month](Screenshots/Seasonal%20performance/Average_Seasonality_Rate.png)
+
+#### Seasonal Consistency
+![Seasonal Consistency](Screenshots/Seasonal%20performance/Seasonal_Consistency.png)
 
 ---
 
@@ -195,7 +220,16 @@ The results show that industries do not necessarily experience peak seasonal dem
 
 Seasonal planning should therefore consider **industry-specific patterns rather than applying one seasonal assumption to the entire food-service sector**.
 
-![Seasonal Consistency Dashboard](screenshots/seasonal-consistency.png)
+### Industry Seasonality Visuals
+
+#### Full-Service Restaurants
+![Full-Service Restaurant Seasonality](Screenshots/Seasonal%20performance/Full%20service%20restaurants.png)
+
+#### Limited-Service Restaurants
+![Limited-Service Restaurant Seasonality](Screenshots/Seasonal%20performance/Limited%20Service%20Restaurants.png)
+
+#### Special Food Services
+![Special Food Services Seasonality](Screenshots/Seasonal%20performance/Special%20Food%20Services.png)
 
 ---
 
